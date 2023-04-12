@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="9aa6fea0-f83c-4ddc-8aa1-f77319858f89" name="agendacontatos" url="jdbc:sqlserver://localhost;databaseName=agendacontatos" driverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+      <data-source id="5cf22ca0-05b0-418d-8e73-e17edcddcb22" name="db_agenda" url="jdbc:sqlserver://localhost;databaseName=db_agenda" driverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+      <data-source id="12a3d3bf-2523-47bd-bf4e-bd375c25cda7" name="agenda" url="jdbc:mysql://localhost/db_agenda?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
